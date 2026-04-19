@@ -1,6 +1,11 @@
 {
-  "name": "zetsu-telegram-bot",
+  "name": "oooo-telegram",
   "version": "1.0.0",
+  "description": "Bot Telegram officiel oOooo - INFO PURGE 24",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "node-telegram-bot-api": "^0.64.0"
   }
